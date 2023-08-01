@@ -1,8 +1,8 @@
 {
-  "uid": "urn:uuid:1335c625-cfb8-4ebb-abbd-80da343efa6b",
-  "updateDate": "2023-08-01T14:34:51.0Z",
-  "titleText": "TSF - Noticias",
-  "mainText": "",
-  "streamUrl": "https://www.tsf.pt/stream/audio/2023/08/noticias/01/not14.mp3",
-  "redirectionUrl": "https://www.tsf.pt/programa/noticiarios.html"
+    "uid": "a6a227b6-2691-4c4c-97cd-c1782ca95794",
+    "updateDate": "2023-08-01T16:46:29Z",
+    "titleText": "Noticias TSF",
+    "mainText": "",
+    "streamUrl": "https://www.tsf.pt/stream/audio/2023/08/noticias/01/not16.mp3",
+    "redirectionUrl": "https://www.tsf.pt/programa/noticiarios.html"
 }
